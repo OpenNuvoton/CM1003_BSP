@@ -1,0 +1,8 @@
+sbomType: Product SBOM
+include:
+  - path: Library/Device
+  - path: Library/Startup
+  - path: Library/StdDriver
+exclude:
+  - path: Document/
+  - path: SampleCode/

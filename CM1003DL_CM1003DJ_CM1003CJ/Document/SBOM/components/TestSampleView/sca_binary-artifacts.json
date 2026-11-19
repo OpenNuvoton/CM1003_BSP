@@ -1,0 +1,130 @@
+{
+  "components": [
+    {
+      "type": "file",
+      "bom-ref": "cm1003:CM1003DL_CM1003DJ_CM1003CJ:file:SampleCode/ISP/ISP_I2C/ExcutableBin/ISP_I2C.bin",
+      "name": "SampleCode/ISP/ISP_I2C/ExcutableBin/ISP_I2C.bin",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a1f9bdd5fc82d359ced656ba80cf4a5b1c45d1cc63811abaa98e5fa7163808c8"
+        }
+      ],
+      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
+      "properties": [
+        {
+          "name": "bsp:file-path",
+          "value": "SampleCode/ISP/ISP_I2C/ExcutableBin/ISP_I2C.bin"
+        },
+        {
+          "name": "bsp:sbom-category",
+          "value": "test-sample"
+        },
+        {
+          "name": "bsp:source-commit",
+          "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independently verified firmware version recorded."
+        },
+        {
+          "name": "bsp:license-status",
+          "value": "needs-review"
+        },
+        {
+          "name": "bsp:source-evidence",
+          "value": "SampleCode/ISP/ISP_I2C/main.c"
+        },
+        {
+          "name": "bsp:license-assessment-basis",
+          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "cm1003:CM1003DL_CM1003DJ_CM1003CJ:file:SampleCode/ISP/ISP_UART0/ExcutableBin/ISP_UART0.bin",
+      "name": "SampleCode/ISP/ISP_UART0/ExcutableBin/ISP_UART0.bin",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0f4cd92c78e7b38b907a0ef8a6929f1a2090f720b085679bb29dc29db445cd20"
+        }
+      ],
+      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
+      "properties": [
+        {
+          "name": "bsp:file-path",
+          "value": "SampleCode/ISP/ISP_UART0/ExcutableBin/ISP_UART0.bin"
+        },
+        {
+          "name": "bsp:sbom-category",
+          "value": "test-sample"
+        },
+        {
+          "name": "bsp:source-commit",
+          "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independently verified firmware version recorded."
+        },
+        {
+          "name": "bsp:license-status",
+          "value": "needs-review"
+        },
+        {
+          "name": "bsp:source-evidence",
+          "value": "SampleCode/ISP/ISP_UART0/main.c"
+        },
+        {
+          "name": "bsp:license-assessment-basis",
+          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "cm1003:CM1003DL_CM1003DJ_CM1003CJ:file:SampleCode/ISP/ISP_UART1/ExcutableBin/ISP_UART1.bin",
+      "name": "SampleCode/ISP/ISP_UART1/ExcutableBin/ISP_UART1.bin",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a3492ec5bb114a41ed2e1b6cc6a78df4f842ba508e450fcae79186a20e9b0b05"
+        }
+      ],
+      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
+      "properties": [
+        {
+          "name": "bsp:file-path",
+          "value": "SampleCode/ISP/ISP_UART1/ExcutableBin/ISP_UART1.bin"
+        },
+        {
+          "name": "bsp:sbom-category",
+          "value": "test-sample"
+        },
+        {
+          "name": "bsp:source-commit",
+          "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independently verified firmware version recorded."
+        },
+        {
+          "name": "bsp:license-status",
+          "value": "needs-review"
+        },
+        {
+          "name": "bsp:source-evidence",
+          "value": "SampleCode/ISP/ISP_UART1/main.c"
+        },
+        {
+          "name": "bsp:license-assessment-basis",
+          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+        }
+      ]
+    }
+  ]
+}
