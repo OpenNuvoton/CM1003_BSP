@@ -1,0 +1,169 @@
+{
+  "components": [
+    {
+      "type": "file",
+      "bom-ref": "cm1003:CM1003CF_CM1003BF:file:SampleCode/ISP/ISP_I2C/ExcutableBin/ISP_I2C.bin",
+      "name": "SampleCode/ISP/ISP_I2C/ExcutableBin/ISP_I2C.bin",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a1f9bdd5fc82d359ced656ba80cf4a5b1c45d1cc63811abaa98e5fa7163808c8"
+        }
+      ],
+      "properties": [
+        {
+          "name": "bsp:file-path",
+          "value": "SampleCode/ISP/ISP_I2C/ExcutableBin/ISP_I2C.bin"
+        },
+        {
+          "name": "bsp:sbom-category",
+          "value": "test-sample"
+        },
+        {
+          "name": "bsp:source-commit",
+          "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
+        },
+        {
+          "name": "bsp:component-origin",
+          "value": "first-party"
+        },
+        {
+          "name": "bsp:license-status",
+          "value": "source-based-assessment"
+        },
+        {
+          "name": "bsp:license-evidence",
+          "value": "SampleCode/ISP/ISP_I2C/main.c"
+        },
+        {
+          "name": "bsp:license-assessment-basis",
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
+        }
+      ],
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "cm1003:CM1003CF_CM1003BF:file:SampleCode/ISP/ISP_UART0/ExcutableBin/ISP_UART0.bin",
+      "name": "SampleCode/ISP/ISP_UART0/ExcutableBin/ISP_UART0.bin",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3c2e2569f5e1f42429cef9508c7d30f3504d453d87609feb17340110eea8a9a4"
+        }
+      ],
+      "properties": [
+        {
+          "name": "bsp:file-path",
+          "value": "SampleCode/ISP/ISP_UART0/ExcutableBin/ISP_UART0.bin"
+        },
+        {
+          "name": "bsp:sbom-category",
+          "value": "test-sample"
+        },
+        {
+          "name": "bsp:source-commit",
+          "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
+        },
+        {
+          "name": "bsp:component-origin",
+          "value": "first-party"
+        },
+        {
+          "name": "bsp:license-status",
+          "value": "source-based-assessment"
+        },
+        {
+          "name": "bsp:license-evidence",
+          "value": "SampleCode/ISP/ISP_UART0/main.c"
+        },
+        {
+          "name": "bsp:license-assessment-basis",
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
+        }
+      ],
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "bom-ref": "cm1003:CM1003CF_CM1003BF:file:SampleCode/ISP/ISP_UART1/ExcutableBin/ISP_UART1.bin",
+      "name": "SampleCode/ISP/ISP_UART1/ExcutableBin/ISP_UART1.bin",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "25ab1b8b0a5f2d8ee67515ff8466367ac2789ce7fbbfa2dd3b47a807f18927a2"
+        }
+      ],
+      "properties": [
+        {
+          "name": "bsp:file-path",
+          "value": "SampleCode/ISP/ISP_UART1/ExcutableBin/ISP_UART1.bin"
+        },
+        {
+          "name": "bsp:sbom-category",
+          "value": "test-sample"
+        },
+        {
+          "name": "bsp:source-commit",
+          "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
+        },
+        {
+          "name": "bsp:component-origin",
+          "value": "first-party"
+        },
+        {
+          "name": "bsp:license-status",
+          "value": "source-based-assessment"
+        },
+        {
+          "name": "bsp:license-evidence",
+          "value": "SampleCode/ISP/ISP_UART1/main.c"
+        },
+        {
+          "name": "bsp:license-assessment-basis",
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
+        }
+      ],
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    }
+  ]
+}
