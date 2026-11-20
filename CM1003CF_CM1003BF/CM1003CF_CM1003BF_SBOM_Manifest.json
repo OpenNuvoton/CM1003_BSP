@@ -1,8 +1,8 @@
 {
   "manifestFormat": "MCU-BSP-SBOM-Manifest",
   "manifestVersion": "1.0",
-  "serialNumber": "urn:uuid:88011a12-e4cb-4805-95cd-c0bb76ce2272",
-  "createdAt": "2026-11-19T08:21:09.694531Z",
+  "serialNumber": "urn:uuid:e3b40998-d928-4596-bf96-ba9ccad486df",
+  "createdAt": "2026-11-20T03:02:05.513891Z",
   "bsp": {
     "name": "CM1003CF_CM1003BF",
     "version": "dbb4728",
@@ -92,7 +92,7 @@
       },
       "hash": {
         "algorithm": "SHA-256",
-        "value": "338ef6ecbc2c9150282358a798cdf2ab145b65b3e71cb25f79df89b1dba2a7f2"
+        "value": "e066e308406469cfeb32162dd1e28f0df89f4653b5a9627c0deffcab24ecbb30"
       }
     },
     {
@@ -101,8 +101,8 @@
       "bomFormat": "CycloneDX",
       "specVersion": "1.6",
       "serialNumber": "urn:uuid:78d09d2c-b9d7-40fd-b20f-9cb34fef174f",
-      "sbomVersion": 1,
-      "generatedTimestamp": "2026-11-19T01:49:51-05:00",
+      "sbomVersion": 2,
+      "generatedTimestamp": "2026-11-20T03:02:01+00:00",
       "metadataComponent": {
         "bomRef": "2fc999f48ac7353e",
         "type": "application",
@@ -159,7 +159,7 @@
       },
       "hash": {
         "algorithm": "SHA-256",
-        "value": "072b2e0df9261ccce8af5dae9137c89b6144377e6de5ed19d382493a2b685f72"
+        "value": "0245bb291853831ff7eb2039ae5e37b249dd98c59db1a95b1cfa6c5bc6027acd"
       },
       "relationshipToProductSbom": {
         "usesProductComponents": true,

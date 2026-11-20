@@ -10,7 +10,6 @@
           "content": "a1f9bdd5fc82d359ced656ba80cf4a5b1c45d1cc63811abaa98e5fa7163808c8"
         }
       ],
-      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
       "properties": [
         {
           "name": "bsp:file-path",
@@ -25,20 +24,34 @@
           "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
         },
         {
-          "name": "bsp:version-evidence",
-          "value": "No independently verified firmware version recorded."
+          "name": "bsp:component-origin",
+          "value": "first-party"
         },
         {
           "name": "bsp:license-status",
-          "value": "needs-review"
+          "value": "source-based-assessment"
         },
         {
-          "name": "bsp:source-evidence",
+          "name": "bsp:license-evidence",
           "value": "SampleCode/ISP/ISP_I2C/main.c"
         },
         {
           "name": "bsp:license-assessment-basis",
-          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
+        }
+      ],
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
         }
       ]
     },
@@ -52,7 +65,6 @@
           "content": "0f4cd92c78e7b38b907a0ef8a6929f1a2090f720b085679bb29dc29db445cd20"
         }
       ],
-      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
       "properties": [
         {
           "name": "bsp:file-path",
@@ -67,20 +79,34 @@
           "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
         },
         {
-          "name": "bsp:version-evidence",
-          "value": "No independently verified firmware version recorded."
+          "name": "bsp:component-origin",
+          "value": "first-party"
         },
         {
           "name": "bsp:license-status",
-          "value": "needs-review"
+          "value": "source-based-assessment"
         },
         {
-          "name": "bsp:source-evidence",
+          "name": "bsp:license-evidence",
           "value": "SampleCode/ISP/ISP_UART0/main.c"
         },
         {
           "name": "bsp:license-assessment-basis",
-          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
+        }
+      ],
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
         }
       ]
     },
@@ -94,7 +120,6 @@
           "content": "a3492ec5bb114a41ed2e1b6cc6a78df4f842ba508e450fcae79186a20e9b0b05"
         }
       ],
-      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
       "properties": [
         {
           "name": "bsp:file-path",
@@ -109,20 +134,34 @@
           "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
         },
         {
-          "name": "bsp:version-evidence",
-          "value": "No independently verified firmware version recorded."
+          "name": "bsp:component-origin",
+          "value": "first-party"
         },
         {
           "name": "bsp:license-status",
-          "value": "needs-review"
+          "value": "source-based-assessment"
         },
         {
-          "name": "bsp:source-evidence",
+          "name": "bsp:license-evidence",
           "value": "SampleCode/ISP/ISP_UART1/main.c"
         },
         {
           "name": "bsp:license-assessment-basis",
-          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
+        }
+      ],
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
         }
       ]
     }

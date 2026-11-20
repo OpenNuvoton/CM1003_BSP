@@ -3,9 +3,9 @@
   "bomFormat": "CycloneDX",
   "specVersion": "1.6",
   "serialNumber": "urn:uuid:b4c7f6bb-d90c-430e-9a86-988b6b9f37df",
-  "version": 1,
+  "version": 2,
   "metadata": {
-    "timestamp": "2026-11-19T01:50:04-05:00",
+    "timestamp": "2026-11-20T03:02:01+00:00",
     "tools": {
       "components": [
         {
@@ -156,7 +156,6 @@
           "content": "a1f9bdd5fc82d359ced656ba80cf4a5b1c45d1cc63811abaa98e5fa7163808c8"
         }
       ],
-      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
       "properties": [
         {
           "name": "bsp:file-path",
@@ -171,23 +170,37 @@
           "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
         },
         {
-          "name": "bsp:version-evidence",
-          "value": "No independently verified firmware version recorded."
+          "name": "bsp:component-origin",
+          "value": "first-party"
         },
         {
           "name": "bsp:license-status",
-          "value": "needs-review"
+          "value": "source-based-assessment"
         },
         {
-          "name": "bsp:source-evidence",
+          "name": "bsp:license-evidence",
           "value": "SampleCode/ISP/ISP_I2C/main.c"
         },
         {
           "name": "bsp:license-assessment-basis",
-          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
         }
       ],
-      "purl": "pkg:generic/samplecode-isp-isp_i2c-excutablebin-isp_i2c.bin@unknown"
+      "purl": "pkg:generic/samplecode-isp-isp_i2c-excutablebin-isp_i2c.bin@unknown",
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
     },
     {
       "type": "file",
@@ -199,7 +212,6 @@
           "content": "0f4cd92c78e7b38b907a0ef8a6929f1a2090f720b085679bb29dc29db445cd20"
         }
       ],
-      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
       "properties": [
         {
           "name": "bsp:file-path",
@@ -214,23 +226,37 @@
           "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
         },
         {
-          "name": "bsp:version-evidence",
-          "value": "No independently verified firmware version recorded."
+          "name": "bsp:component-origin",
+          "value": "first-party"
         },
         {
           "name": "bsp:license-status",
-          "value": "needs-review"
+          "value": "source-based-assessment"
         },
         {
-          "name": "bsp:source-evidence",
+          "name": "bsp:license-evidence",
           "value": "SampleCode/ISP/ISP_UART0/main.c"
         },
         {
           "name": "bsp:license-assessment-basis",
-          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
         }
       ],
-      "purl": "pkg:generic/samplecode-isp-isp_uart0-excutablebin-isp_uart0.bin@unknown"
+      "purl": "pkg:generic/samplecode-isp-isp_uart0-excutablebin-isp_uart0.bin@unknown",
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
     },
     {
       "type": "file",
@@ -242,7 +268,6 @@
           "content": "a3492ec5bb114a41ed2e1b6cc6a78df4f842ba508e450fcae79186a20e9b0b05"
         }
       ],
-      "description": "Distributed ISP firmware file identified by actual SHA-256; independent version and complete linked-content licensing have not been established.",
       "properties": [
         {
           "name": "bsp:file-path",
@@ -257,23 +282,37 @@
           "value": "dbb4728d80c59d9ee22bf9ce4064c9d1ab8d8e1c"
         },
         {
-          "name": "bsp:version-evidence",
-          "value": "No independently verified firmware version recorded."
+          "name": "bsp:component-origin",
+          "value": "first-party"
         },
         {
           "name": "bsp:license-status",
-          "value": "needs-review"
+          "value": "source-based-assessment"
         },
         {
-          "name": "bsp:source-evidence",
+          "name": "bsp:license-evidence",
           "value": "SampleCode/ISP/ISP_UART1/main.c"
         },
         {
           "name": "bsp:license-assessment-basis",
-          "value": "Accompanying main.c declares Apache-2.0; binary-to-source correspondence, build reproducibility and complete linked-content licensing remain unverified."
+          "value": "Source declares Apache-2.0; complete linked-content licensing not independently verified."
+        },
+        {
+          "name": "bsp:version-evidence",
+          "value": "No independent version established; identified by SHA-256."
         }
       ],
-      "purl": "pkg:generic/samplecode-isp-isp_uart1-excutablebin-isp_uart1.bin@unknown"
+      "purl": "pkg:generic/samplecode-isp-isp_uart1-excutablebin-isp_uart1.bin@unknown",
+      "supplier": {
+        "name": "Nuvoton Technology Corp."
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
     }
   ],
   "dependencies": [
@@ -290,9 +329,9 @@
     "publicKey": {
       "kty": "EC",
       "crv": "P-256",
-      "x": "TOCzLP_nWUL-jWX-1ceTy7kloK1rFhFRrp55k72jNAA",
-      "y": "WpSo0LPMsn1Ca8XAR2lgYTOiuKzvf3IkxAo0YN6vThg"
+      "x": "lMgDAkXrQQDAxydZBPd8NXxvcRH_Wzb9H_jhCBnhXXg",
+      "y": "mcKlewP1C4pDiPNRny0Rb0IgLBrF_uG-XKMMWjnJ2nw"
     },
-    "value": "4Pf7EuL41HZLFcFUUSblP7m7H8H2NEy1n_9HruisqQ0df0NK_8elM3-eLFar_nbllte4jc0WvnBmclok8Oyb_A"
+    "value": "53wJUzC8Ys6ZDhAzu4WthwyhZP_wv6pF5NhYTTmZAq-gHY5D2zzLmHlMQbnp-j9CaEJ8Kpe-xFJYGrZtZ2QXzg"
   }
 }

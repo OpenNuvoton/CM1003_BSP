@@ -1,8 +1,8 @@
 {
   "manifestFormat": "MCU-BSP-SBOM-Manifest",
   "manifestVersion": "1.0",
-  "serialNumber": "urn:uuid:c386f16a-8352-45c4-a4e9-1b8886f1fd07",
-  "createdAt": "2026-11-19T08:21:11.689168Z",
+  "serialNumber": "urn:uuid:99ef3168-0a9b-459d-84cc-df09c05f8583",
+  "createdAt": "2026-11-20T03:02:08.817709Z",
   "bsp": {
     "name": "CM1003DL_CM1003DJ_CM1003CJ",
     "version": "dbb4728",
@@ -92,7 +92,7 @@
       },
       "hash": {
         "algorithm": "SHA-256",
-        "value": "b50c95294999b805d4271510d71b688590289be5c78fda57c15fb2577ba6cd93"
+        "value": "2ba98a21cd4e6bd3c750f2032df805ba8134c8deaae95d07fa49c2c00261a74c"
       }
     },
     {
@@ -101,8 +101,8 @@
       "bomFormat": "CycloneDX",
       "specVersion": "1.6",
       "serialNumber": "urn:uuid:b4c7f6bb-d90c-430e-9a86-988b6b9f37df",
-      "sbomVersion": 1,
-      "generatedTimestamp": "2026-11-19T01:50:04-05:00",
+      "sbomVersion": 2,
+      "generatedTimestamp": "2026-11-20T03:02:01+00:00",
       "metadataComponent": {
         "bomRef": "219ab46c44dfbad7",
         "type": "application",
@@ -159,7 +159,7 @@
       },
       "hash": {
         "algorithm": "SHA-256",
-        "value": "9cd665b0bb85706fa5f0dee04b1d44777aff0dd81b7174add5f5e8cc7b9944fa"
+        "value": "47e6d3ae04990e661b658393db2515665689090a61b038bbdf3655c2e9c8a395"
       },
       "relationshipToProductSbom": {
         "usesProductComponents": true,
